@@ -1,2 +1,2 @@
 # imccalc
- IMC calculator simple main function project
+ IMC calculator simple main function exercise
